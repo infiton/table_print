@@ -15,4 +15,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'minitest', '~>5.8'
   s.add_development_dependency 'rake', '~>10.0'
+
+  s.homepage    = 'https://github.com/infiton/table_print'
+  s.license     = 'MIT'
 end
